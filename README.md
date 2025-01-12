@@ -1,4 +1,4 @@
-#Customer Segmentation and Clustering Analysis
+# Customer Segmentation and Clustering Analysis
 
 
 This project focuses on customer segmentation using unsupervised machine learning techniques. The goal is to analyze customer data, identify distinct customer groups (clusters), and extract useful insights for business decision-making. The project includes data preprocessing, feature engineering, dimensionality reduction, and clustering using various algorithms like K-Means, DBSCAN, and K-Medoids. The performance of these models is evaluated using metrics such as silhouette score, Davies-Bouldin index, and Calinski-Harabasz index.
